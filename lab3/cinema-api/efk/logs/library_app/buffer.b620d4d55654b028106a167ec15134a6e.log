@@ -1,0 +1,10 @@
+2024-08-29T16:19:04+00:00	cinema_app.movies	{"message":"Movies with id '6' was create","id":"6"}
+2024-08-29T16:19:35+00:00	cinema_app.movies	{"message":"Movies with id '1' was create","id":"1"}
+2024-08-29T16:19:41+00:00	cinema_app.movies	{"message":"Movies with id '1' was create","id":"1"}
+2024-08-29T16:19:50+00:00	cinema_app.movies	{"message":"Movies with id '1' was create","id":"1"}
+2024-08-29T16:20:49+00:00	cinema_app.movies	{"message":"Movies with id '1' was create","id":"1"}
+2024-08-29T16:20:53+00:00	cinema_app.movies	{"message":"Movies with id '1' was create","id":"1"}
+2024-08-29T16:21:14+00:00	cinema_app.movies	{"message":"Request list of Movies","size":"null","page":"null"}
+2024-08-29T16:23:32+00:00	cinema_app.movies	{"message":"Movies with id '6' was updated","id":"6"}
+2024-08-29T16:23:54+00:00	cinema_app.movies	{"message":"Movies with id '1' deleted","id":"1"}
+2024-08-29T16:24:22+00:00	cinema_app.movies	{"message":"Request list of Movies","size":"null","page":"null"}

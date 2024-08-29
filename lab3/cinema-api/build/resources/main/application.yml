@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: cinema_app
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: root
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: ["prometheus" ,"metrics"]
+  metrics:
+    tags:
+      application: ${spring.application.name}
